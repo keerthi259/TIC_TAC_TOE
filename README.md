@@ -1,1 +1,3 @@
 # TIC_TAC_TOE
+
+In our project, we've developed an advanced version of the classic Tic-Tac-Toe game, integrating sophisticated artificial intelligence techniques. The game features a combination of Minimax, Alpha-Beta pruning, and Q-learning algorithms to enhance the AI opponent. This setup not only challenges players with strategic depth but also allows the AI to learn from each game, optimizing its moves over time. The game is designed to be interactive, with players making moves on a standard 3x3 grid. This project not only enriches the gaming experience but also serves as a practical demonstration of AI concepts in decision-making scenarios.
